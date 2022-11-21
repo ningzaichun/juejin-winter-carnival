@@ -1,0 +1,8 @@
+{
+  "@name": "juejin-winter-carnival",
+  "@include": "*",
+  "@run-at": "document-end",
+  "@require": "https://code.jquery.com/jquery-3.6.0.min.js",
+  "@match": "juejin.cn",
+  "@connect": "juejin.cn"
+}
